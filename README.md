@@ -1,6 +1,6 @@
 # Developer Portfolio Media
 
-This repository contains media assets (images, thumbnails, etc.) used in my developer portfolio site.
+This repository contains media assets (images, thumbnails, documents, etc.) used in my developer portfolio site.
 
 # Related
 
